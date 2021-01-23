@@ -3,7 +3,7 @@
 Hii Everyone I am a student of Newton School batch January 2020.
 I am uploading all my work and programs daily by daily.
 <table>
-  <tr><th>Wake up</th><th>       				:		</th><th>09:00am</th></tr>
+  <tr><th style='background-color:navy;'>Wake up</th><th>       				:		</th><th>09:00am</th></tr>
 <tr><th>Fresh		</th><th>			:		</th><th>09:00am to 10:00am</th></tr>
 <tr><th>College Subject	</th><th>		:	</th><th>	10:00am to 12:00pm</th></tr>
 <tr><th>Lunch			</th><th>		:		</th><th>01:00pm to 02:30pm</th></tr>
