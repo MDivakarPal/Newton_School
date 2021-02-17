@@ -1,4 +1,4 @@
-#My Newton School Certificates
+# My Newton School Certificates
 <h2>Basic Certificate</h2>
 <img src="Certificates/Basics-certificate.png"/>
 
